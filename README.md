@@ -17,10 +17,7 @@ LoginStack is a full-featured authentication system built with the **MERN Stack*
 
 ---
 
-## 🚀 Live Demo
-Coming soon...
 
----
 
 ## 📦 Tech Stack
 
