@@ -1,9 +1,4 @@
 
-Here’s a fully designed, beautiful `README.md` file for your **LoginStack** project, with all the features you requested:
-
----
-
-```md
 # 🔐 LoginStack — MERN Authentication App with Real-Time Email OTP Verification
 
 LoginStack is a full-featured authentication system built with the **MERN Stack** (MongoDB, Express, React, Node.js). It includes **real-time email verification** using a 6-digit OTP sent to the user’s email during signup. This is perfect for secure and modern authentication needs.
