@@ -113,15 +113,15 @@ npm run dev
 
 ### 🔐 Signup Page
 
-![Signup Screenshot](https://user-images.githubusercontent.com/0000000/signup-screenshot.png)
+![Signup Screenshot](https://github.com/Sharathhk122/LoginStack/blob/main/Screenshot%20(997).png)
 
 ### 📥 OTP Verification
 
-![OTP Screenshot](https://user-images.githubusercontent.com/0000000/otp-screenshot.png)
+![OTP Screenshot](https://github.com/Sharathhk122/LoginStack/blob/main/Screenshot%20(998).png)
 
 ### 🔓 Login Page
 
-![Login Screenshot](https://user-images.githubusercontent.com/0000000/login-screenshot.png)
+![Login Screenshot](https://github.com/Sharathhk122/LoginStack/blob/main/Screenshot%20(999).png)
 
 ---
 
