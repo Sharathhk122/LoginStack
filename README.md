@@ -3,6 +3,14 @@
 
 LoginStack is a full-featured authentication system built with the **MERN Stack** (MongoDB, Express, React, Node.js). It includes **real-time email verification** using a 6-digit OTP sent to the user’s email during signup. This is perfect for secure and modern authentication needs.
 
+---
+
+## 🚀 Live Demo
+
+🌐 **Frontend Live Link**: [LoginStack on Vercel](https://login-stack-i48fkfpwl-sharath-h-ks-projects.vercel.app/)
+
+---
+
 <br/>
 
 ![LoginStack Screenshot](https://github.com/Sharathhk122/LoginStack/blob/main/Screenshot%20(997).png).
