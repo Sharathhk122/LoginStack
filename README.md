@@ -5,7 +5,7 @@ LoginStack is a full-featured authentication system built with the **MERN Stack*
 
 <br/>
 
-![LoginStack Screenshot]((https://github.com/Sharathhk122/LoginStack/blob/main/Screenshot%20(997).png))
+![LoginStack Screenshot](https://github.com/Sharathhk122/LoginStack/blob/main/Screenshot%20(997).png).
 
 ---
 
