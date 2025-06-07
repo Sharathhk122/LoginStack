@@ -1,0 +1,23 @@
+/* index.css */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: linear-gradient(135deg, #10002b 0%, #240046 100%);
+  }
+  
+  .ant-input, .ant-input-password, .ant-btn {
+    transition: all 0.3s ease-out !important;
+  }
+  
+  .ant-input:hover, .ant-input-password:hover {
+    box-shadow: 0 0 0 2px rgba(157, 78, 221, 0.2) !important;
+  }
+  
+  .ant-input:focus, .ant-input-focused, 
+  .ant-input-password:focus, .ant-input-password-focused {
+    box-shadow: 0 0 0 2px rgba(157, 78, 221, 0.4) !important;
+  }
