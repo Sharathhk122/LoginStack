@@ -6,9 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "vite preview"
   },
+  
   "dependencies": {
     "@ant-design/icons": "^6.0.0",
     "@react-three/drei": "^10.0.8",
