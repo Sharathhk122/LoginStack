@@ -7,7 +7,7 @@ LoginStack is a full-featured authentication system built with the **MERN Stack*
 
 ## 🚀 Live Demo
 
-🌐 **Frontend Live Link**: [LoginStack on Vercel](https://loginstack-1.onrender.com/)
+🌐 **Frontend Live Link**: [LoginStack on render](https://loginstack-2.onrender.com)
 
 ---
 
